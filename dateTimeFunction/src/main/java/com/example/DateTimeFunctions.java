@@ -61,7 +61,7 @@ public class DateTimeFunctions {
 		int months = Math.abs(period.getMonths());
 		int days = Math.abs(period.getDays());
 		
-		return "Year-" + years + ":Months-" + months + ":Days-" + days;
+		return "Years-" + years + ":Months-" + months + ":Days-" + days;
 		//YOUR CODE ENDS HERE
 
 	}
